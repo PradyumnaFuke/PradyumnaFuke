@@ -2,6 +2,7 @@
 
 ### About me
 🧭 I love **programming** and I want to create something of my own.
+
 🧠 I'm interested in:
 - **Science**
 - **History**
