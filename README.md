@@ -10,8 +10,7 @@
 - **Philosophy**
 - **Filmmaking**
 - **Programming**
-- **Animation**
-
+- **Animation**  
 I would love to  combine all these things into a single original project some day.
 Whatever I like basically falls into either  knowledge or creativity.
 👾 Right now I am learning programming and don't know many things yet but I will do my best.
