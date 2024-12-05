@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @PradyumnaFuke
 
-### About me
+### ℹ️ About me
 🧭 I love **programming** and I want to create something of my own.
 
 🧠 I'm interested in:
