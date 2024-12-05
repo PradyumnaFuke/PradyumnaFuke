@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @PradyumnaFuke
 #### Hi
+## Hi
+# Hi
 - 🧭 I love programming and I want to create something of my own.
 - 🧠 I'm also interested in Science, History, Art, Photography, Philosophy, Filmmaking & Animation and would love to combine all these things into a single project some day.
 - Whatever I like basically falls into either  knowledge or creativity.
