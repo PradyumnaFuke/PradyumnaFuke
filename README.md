@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @PradyumnaFuke
-
+![Equation](https://quicklatex.com/cache3/82/ql_0676ade0cd04eda37aeb3d0bcd427682_l3.png)
 ### ℹ️ About me
 🧭 I love **programming** and I want to create something of my own.
 
