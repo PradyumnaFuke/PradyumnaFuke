@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @PradyumnaFuke
-![Equation](https://latex.codecogs.com/gif.latex?\frac{a}{b})
+
 ### ℹ️ About me
 🧭 I love **programming** and I want to create something of my own.
 
