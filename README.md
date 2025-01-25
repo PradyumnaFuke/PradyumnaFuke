@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @PradyumnaFuke
-For web version click [here](pradyumnafuke.github.io/PradyumnaFuke/)
+
 ### ℹ️ About me
 🧭 I love **programming** and I want to create something of my own.
 
