@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @PradyumnaFuke
+👋 Hi, I’m @PradyumnaFuke
 
 ### ℹ️ About me
 🧭 I love **programming** and I want to create something of my own.
