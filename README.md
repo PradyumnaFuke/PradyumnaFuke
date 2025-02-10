@@ -2,11 +2,6 @@
 
 🧭 I love **programming** and I want to create something of my own.
 
-| First Header  | Second Header | Third Header| Fourth Header |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-
 🧠 I'm interested in:
 - **Science**
 - **History**
