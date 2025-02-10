@@ -2,6 +2,11 @@
 
 🧭 I love **programming** and I want to create something of my own.
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 🧠 I'm interested in:
 - **Science**
 - **History**
@@ -25,3 +30,4 @@ Whatever I like basically falls into either  knowledge or creativity.
 PradyumnaFuke/PradyumnaFuke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
